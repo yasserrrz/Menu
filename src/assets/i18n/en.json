@@ -1,0 +1,24 @@
+{
+    "translation": {
+    "select_catergories": "Select Category",
+    "get_back" : "Get BACK",
+    "call_waiter": "Call Waiter",
+    "weight" : "Weight",
+    "gm": "GM",
+    "go_back" :"Go Back",
+    "Cheque" : "Cheque",
+    "Waiter" :"Waiter",
+    "Services": "Services",
+     "Valet": "Valet",
+     "paragraph1": "An integrated system for the comprehensive management of sales stores and their customers' requirements through a set of applications and information management technology",
+     "paragraph2":"The system manages the selling shops, which requires increasing profits, savings, and reducing losses",
+     "paragraph3" : "It focuses on sending administrative excellence and the success of the commercial operation, whether online or offline to the Internet shop",
+     "about":"About tijary",
+     "send": "Submit Your Inquiry",
+     "Table":"Table",
+     "Menu":"Menu",
+     "your_order": "You requested",
+     "LE":"LE" ,
+     "Discription":"Discription"
+    }
+}
